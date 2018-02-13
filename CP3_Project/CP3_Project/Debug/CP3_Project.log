@@ -1,0 +1,14 @@
+﻿  Trap.cpp
+  Status.cpp
+  Potion.cpp
+  PlayerCharacter.cpp
+  MapGeneration.cpp
+d:\projects visual\tryingout\cp3_project\cp3_project\mapgeneration.cpp(286): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Item.cpp
+  Interface.cpp
+  Enemy.cpp
+  Character.cpp
+  Boss.cpp
+  Generating Code...
+  CP3_Project.vcxproj -> D:\Projects Visual\TryingOut\CP3_Project\Debug\CP3_Project.exe
