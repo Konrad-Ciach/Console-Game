@@ -517,7 +517,7 @@ void Interface::nextLevel(MapGeneration &map)
 	{
 		rlutil::cls();
 		std::cout << "Congratulations!\n";
-		std::cout << "You have completed the trial version if you want to continue playing please purchase the full version.";
+		std::cout << "You have completed the game.";
 		rlutil::anykey();
 		exit(1);
 	}
